@@ -1,4 +1,4 @@
-# Monitor-wydatk-w---Excel
+# Monitor wydatków - Excel
 
 The tool can be used to monitor your private expenditures.
 Please see tab 'Ustawienia' for more info. You will set categories there.
